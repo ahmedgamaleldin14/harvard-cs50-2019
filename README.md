@@ -1,2 +1,3 @@
 # harvard-cs50-course
-Introduction to Computer Science CS50 Course Problem Sets, Lecture Slides, and Lecture Codes.
+
+This is a full access to the material and psets solutions of CS50 course on edX by Harvard University 2019. 
